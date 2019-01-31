@@ -2,6 +2,18 @@
 ### macOS Mojave build for GPD WIN 2 handheld x86 PC
 
 
+## Getting Started
+  #### 1. BIOS Setup
+  Power on devic, then press and hold `Esc` or `Delete` until the setup screen is loaded.
+  #### 2. Enable Thunderbolt
+  Find the Thunderbolt configuration menu and make sure thunderbolt is not its default value `fully disabled`.
+  Also, enable booting from thunderbolt storage. You can play around with all the settings in thunderbolt, not sure 
+  yet what effect the other thunderbolt options have.
+  #### 3. Use an adapter to connect install USB boot image into the USB-C port. 
+  **(official Apple USB thunderbolt adapter is recommended for battery charging during the installation.)**
+
+
+
 This is a work in progress for supporting all macOS Mojave drivers on GDP WIN 2 hardware.
 
 ## Drivers Successfully Installed
