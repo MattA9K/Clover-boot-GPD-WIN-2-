@@ -12,7 +12,7 @@
   #### 3. Use an adapter to connect install USB boot image into the USB-C port. 
   **(official Apple USB thunderbolt adapter is recommended for battery charging during the installation.)**
 
-
+![alt text](https://raw.githubusercontent.com/MattAndrzejczuk/Clover-boot-GPD-WIN-2-/master/GPDinstalldemo.jpg)
 
 This is a work in progress for supporting all macOS Mojave drivers on GDP WIN 2 hardware.
 
