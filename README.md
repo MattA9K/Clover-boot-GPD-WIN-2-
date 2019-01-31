@@ -1,6 +1,7 @@
 # Clover-boot-GPD-WIN-2
 ### macOS Mojave build for GPD WIN 2 handheld x86 PC
 
+This is a work in progress for supporting all macOS Mojave drivers on GDP WIN 2 hardware.
 
 ## Getting Started
   #### 1. BIOS Setup
@@ -14,7 +15,7 @@
 
 ![alt text](https://raw.githubusercontent.com/MattAndrzejczuk/Clover-boot-GPD-WIN-2-/master/GPDinstalldemo.jpg)
 
-This is a work in progress for supporting all macOS Mojave drivers on GDP WIN 2 hardware.
+
 
 ## Drivers Successfully Installed
 **- Bluetooth**
