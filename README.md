@@ -23,10 +23,11 @@ This is a work in progress for supporting all macOS Mojave drivers on GDP WIN 2 
 
 ![alt text](https://raw.githubusercontent.com/MattAndrzejczuk/Clover-boot-GPD-WIN-2-/master/DEMO.jpeg)
 
+___
 
 ## GPD WIN 2 Hardware 
 
-#### Intel® Core™ m3-7Y30 Processor
+### Intel® Core™ m3-7Y30 Processor
 Codename **Kaby Lake**
 
 Lithography **14 nm**
@@ -53,7 +54,9 @@ Configurable TDP-down Frequency **600 MHz**
 
 Configurable TDP-down **3.75 W**
 
-#### Intel HD Graphics 615
+___
+
+### Intel HD Graphics 615
 Codename	**Kaby-Lake GT2**
 
 Architecture	**Intel Gen. 9 (Kaby Lake)**
@@ -68,8 +71,9 @@ Memory Type	**DDR3L/LPDDR3**
 
 Shared Memory	**yes**
 
+___
 
-#### INTEL® DUAL BAND WIRELESS-AC 7265
+### INTEL® DUAL BAND WIRELESS-AC 7265
 
 Bands **2.4 GHz, 5 GHz**
 
