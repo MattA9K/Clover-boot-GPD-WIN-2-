@@ -4,8 +4,11 @@
 
 
 ## Unresolved Issues 
-*No WIFI yet, (intel AC 7265)
-*Thunderbolt Alpine Ridge controller
-*No battery status
+
+*No WIFI yet, (intel AC 7265)*
+
+*Thunderbolt Alpine Ridge controller*
+
+*No battery status*
 
 
