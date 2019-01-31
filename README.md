@@ -5,24 +5,24 @@
 This is a work in progress for supporting all macOS Mojave drivers on GDP WIN 2 hardware.
 
 ## Drivers Successfully Installed
-**Bluetooth**
+**- Bluetooth**
 
-**Internal Audio**
+**- Internal Audio**
 
-**Intel Graphics**
+**- Intel Graphics**
 
-**Internal Fan Speed & Thermal Sensors**
+**- Internal Fan Speed & Thermal Sensors**
 
 ## Unresolved Issues 
-**No WIFI yet, (intel AC 7265)**
+**- No WIFI yet, (intel AC 7265)**
 
-**Thunderbolt Alpine Ridge controller**
-
-
-**No battery status**
+**- Thunderbolt Alpine Ridge controller**
 
 
-**Internal MicroSD card reader not working**
+**- No battery status**
+
+
+**- Internal MicroSD card reader not working**
 
 
 ![alt text](https://raw.githubusercontent.com/MattAndrzejczuk/Clover-boot-GPD-WIN-2-/master/DEMO.jpeg)
